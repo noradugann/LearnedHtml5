@@ -1,32 +1,30 @@
-# LearnedHtml5
+# Learning HTML 5
 
-# HTML 5 Öğreniyorum
+This repository contains the topics covered in HTML 5 lessons.
 
-Bu depo HTML 5 derslerinde işlenen konuları içermektedir.
+## Contents
 
-## İçerik
+1. Ordered and Unordered Lists
+    - Example of Unordered List
+    - Example of Ordered List
+2. Paragraph Tags
+    - Creating Paragraphs
+    - Text Formatting
+3. Heading Tags
+    - H1-H6 Headings
 
-1. Sıralı ve Sırasız Listeler
-    - Sırasız Liste Örneği
-    - Sıralı Liste Örneği
-2. Paragraf Etiketleri
-    - Paragraf Oluşturma
-    - Metin Biçimlendirme
-3. Başlık Etiketleri
-    - H1-H6 Başlıkları
+## Details
 
-## Detaylar
+### Ordered and Unordered Lists
 
-### Sıralı ve Sırasız Listeler
+We learned different ways to create ordered and unordered lists in HTML. During this learning process, we utilized the `<ul>` tag for unordered lists and the `<ol>` tag for ordered lists.
 
-HTML'de sıralı ve sırasız listeler oluşturmanın farklı yollarını öğrendik. Bu öğrenme sürecinde sırasız listeler için `<ul>` etiketini, sıralı listeler için ise `<ol>` etiketini kullandık.
+### Paragraph Tags
 
-### Paragraf Etiketleri
+To display text in paragraphs, we used the `<p>` tag. This tag helps in grouping text in an organized and readable manner.
 
-Metinleri paragraf halinde göstermek için `<p>` etiketini kullandık. Bu etiket sayesinde metinleri düzenli ve okunabilir şekilde gruplayabiliyoruz.
+### Heading Tags
 
-### Başlık Etiketleri
+In HTML, headings are used to specify the hierarchical structure of the text. Heading tags from H1 to H6 are used to indicate the importance of the text.
 
-HTML'de başlıklar, metnin hiyerarşik yapısını belirtmek için kullanılır. H1'den H6'ya kadar olan başlık etiketleri, metnin önem derecesini belirtmek için kullanılır.
-
-Bu depo, HTML 5 öğrenme sürecimdeki ilerlememi içermektedir. İlerleyen zamanlarda daha fazla konu ve örnek eklemeyi planlıyorum.
+This repository reflects my progress in learning HTML 5. I plan to add more topics and examples in the future.
